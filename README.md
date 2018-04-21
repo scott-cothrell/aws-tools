@@ -2,7 +2,7 @@
 
 ### Region Copy for AMIs  ###
 
-<b>regioncp</b> - given a CSV file, clone the source AMI from the sourceRegion to regions specified in the CSV file.
+<b>regioncp.py</b> - given a CSV file, clone the source AMI from the sourceRegion to regions specified in the CSV file.
 
      python regioncp.py regions.csv sourceAmi sourceRegion
 
