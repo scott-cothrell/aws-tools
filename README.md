@@ -1,7 +1,11 @@
-# aws-tools
-_________
-regioncp -- given a CSV file, clone the source AMI to regions specified in the CSV file.
+# aws-tools #
 
-           command line: python regioncp.py regions.csv sourceAmi sourceRegion
+### Region Copy for AMIs  ###
 
-region.csv -- the control file for regioncp
+<b>regioncp</b> - given a CSV file, clone the source AMI from the sourceRegion to regions specified in the CSV file.
+
+     python regioncp.py regions.csv sourceAmi sourceRegion
+
+<b>region.csv</b> - the control file for regioncp.</p>
+- <em>Include Region</em> must be 'Y' for the region to be a target of the copy.
+- <em>Accounts to Add</em> is for future use.
