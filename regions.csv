@@ -1,14 +1,14 @@
 Name,Region,Include Region,Accounts to Add
-US East (Ohio),us-east-2,,46126123
+US East (Ohio),us-east-2,Y,46126123
 US East (N. Virginia),us-east-1,Y,46126123;2811327;881166;078840;7496380
 US West (N. California),us-west-1,,
-US West (Oregon),us-west-2,Y,382261
+US West (Oregon),us-west-2,,382261
 Asia Pacific (Tokyo),ap-northeast-1,,
 Asia Pacific (Seoul),ap-northeast-2,,
-Asia Pacific (Mumbai),ap-south-1,Y,
+Asia Pacific (Mumbai),ap-south-1,,
 Asia Pacific (Singapore),ap-southeast-1,,
 Asia Pacific (Sydney),ap-southeast-2,,
-Canada (Central),ca-central-1,Y,
+Canada (Central),ca-central-1,,
 China (Beijing),cn-north-1,,
 China (Ningxia),cn-northwest-1,,
 EU (Frankfurt),eu-central-1,,7496380
