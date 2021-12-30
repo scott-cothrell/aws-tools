@@ -1,5 +1,5 @@
 # aws-tools #
-
+Note: these are now dated and may no longer be relevant
 ### Region Copy for AMIs  ###
 
 <b>regioncp.py</b> - given a CSV file, clone the source AMI from the sourceRegion to regions specified in the CSV file.
